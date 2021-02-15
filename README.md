@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @markusfassbender-parshipgroup 🍍
+- 👀 I’m interested in many areas of software development.
+- 🌱 I’m currently learning SwiftUI.
+- 💞️ I’m looking to collaborate on archticture and "the big picture".
+- 📫 How to reach me via Microsoft Teams or email.
+- 🤙 Swag!
